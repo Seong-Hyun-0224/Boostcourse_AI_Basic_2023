@@ -10,3 +10,4 @@ Boostcourse 코칭스터디 9기 AI Basic 2023
 ### * 팀미션(매주) - 저작권 문제로 게시 불가
 ### * 퀴즈 풀이 및 라이브 강의
 ## certificate
+<img src="https://user-images.githubusercontent.com/61938029/222398204-853cb367-11a2-43eb-b248-276ea40b0cdd.jpg"  width="700" height="450">
